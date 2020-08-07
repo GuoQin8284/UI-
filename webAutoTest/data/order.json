@@ -1,0 +1,14 @@
+{
+  "test01_order": [
+    {
+      "desc": "test_order",
+      "expect": "订单提交成功"
+    }
+  ],
+  "test02_order_pay": [
+    {
+      "desc": "test_order_pay",
+      "expect": "订单提交成功"
+    }
+  ]
+}

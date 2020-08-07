@@ -1,0 +1,6 @@
+2019-05-13 15:21:55,185 INFO [root] [test_login.py(build_login_data:34)] - test_login_data:[('13012345678', '123456', '8888', '我的账户')]
+2019-05-13 15:22:03,125 INFO [root] [test_login.py(test_login:68)] - username=13012345678, pwd=123456, code=8888, expect=我的账户
+2019-05-13 15:28:34,731 INFO [root] [test_login.py(build_login_data:34)] - test_login_data:[('13012345678', '123456', '8888', '我的账户')]
+2019-05-13 15:28:42,843 INFO [root] [test_login.py(test_login:68)] - username=13012345678, pwd=123456, code=8888, expect=我的账户
+2019-05-13 17:53:18,181 INFO [root] [test_login.py(build_login_data:34)] - test_login_data:[('13012345678', '123456', '8888', '我的账户')]
+2019-05-13 17:53:36,275 INFO [root] [test_login.py(test_login:68)] - username=13012345678, pwd=123456, code=8888, expect=我的账户
